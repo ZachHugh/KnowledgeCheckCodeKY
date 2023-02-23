@@ -1,0 +1,65 @@
+Email:
+  hugheszachary109@gmail.com
+
+Which of the following are considered to be truthy values? *
+  The number five (5)
+  
+Which of the following are considered to be falsy values? *
+  An empty string ("")
+  null
+  undefined
+  The number zero (0)
+  NaN
+  
+If you were to type the expression 123 > 321 into the console of your web browser, and press enter, what would be the resulting value? *
+  false
+
+Given the code from image 1, what will the value of action be when the value of dice is 247? *
+  Move forward two spaces.
+  
+If running the code from image 2, what starting value will cause the value of lightIsOn to be true? *
+  Any falsy value
+  
+Consider the code from both image 2 and image 3.  Assuming lightIsOn is always a boolean value, what would be the difference between running these two snippets of code? *
+  What sorcery is this?
+  
+Given the code from image 3, which of the following values for cash will result in the foodOrder being chicken nuggets? *
+  10
+  
+Is the code from Image 5 valid? *
+  	Yes, but nesting conditional statements should be avoided when possible.
+    
+1) What is the conditional operator called that is demonstrated by the code in image 6?
+2) If the value of fuelLevel is 7, what will be the value of destination? *
+  1) Ternary 2) home
+  
+If you need to quickly repeat a code sequence 10 times, which of the following would best help you accomplish that? *
+  a loop
+  
+How many types of loops are available to use in JavaScript? *
+  6
+
+Which of the following is not valid type of loop?
+  for...with
+  
+Study the code in image 7.  How many times will this loop iterate? *
+  	None. i is initialized at 0 but the condition requires that i must be greater than 100.
+ 
+Consider the code from image 8.  If the starting value of i is 11, how many times will the loop run? *
+    6
+    
+What type of loop is usually the best for iterating the elements in an array? *
+  for...of
+
+Consider the code from image 9.  What does the continue keyword do? *
+  It skips to the start of the next iteration of the loop.
+  
+Consider the code from image 9.  What does the break keyword do? *
+  It exits the loop.
+
+Consider the code from image 9.  What will be the final value of luckySum? *
+  13
+  
+What is wrong with the loop code in image 10? *
+  It creates an infinite loop. Infinite loops are bad!
+ 
